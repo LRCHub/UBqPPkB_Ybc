@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "イヤホンと蝉時雨",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-16T08:29:26.325241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イヤホンと蝉時雨",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_イヤホンと蝉時雨_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イヤホンと蝉時雨",
+      "artist": "MARY",
+      "has_synced": true,
+      "path": "select/02_イヤホンと蝉時雨_MARY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イヤホンと蝉時雨",
+      "artist": "めありー",
+      "has_synced": true,
+      "path": "select/03_イヤホンと蝉時雨_めありー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イヤホンと蝉時雨",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/04_イヤホンと蝉時雨_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イヤホンと蝉時雨 (feat. IA)",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/05_イヤホンと蝉時雨_(feat._IA)_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イヤホンと蝉時雨",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_イヤホンと蝉時雨_Orangestar.txt"
+    }
+  ]
+}
